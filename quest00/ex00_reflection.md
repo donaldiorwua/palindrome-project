@@ -9,3 +9,14 @@
 
     What would happen if AI was unavailable during an exam or job test?
         If in an exam or an interview and AI is not available, i will write my code normally and debug them to make them work as expected. because i use AI to optimize my code and make me think deeper, it will not be a big problem to me at all.
+
+    Identify your current pattern:
+
+    Learner A: uses AI as an answer generator.
+
+    Learner B: uses AI as a learning amplifier.
+        Before now, i use AI as an answer generator but when i discovered the real power of AI, i stopped using it as ansewr generator rather, i use it for deepening my knowledge.
+    
+    Write a short paragraph describing where you are today and what type of learner you want to become.
+        I am not doing my best trying to write codes and coplete my task without asking the AI to snwer it for me.
+        I want to become a learner that will not rely on AI to complete my tasks.
