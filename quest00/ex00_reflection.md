@@ -1,0 +1,4 @@
+In as much as AI is tempting to be a first resource for beginners, I am always cautious of using it as i dont want to make myself over reliant on it to hinder my future growth.
+in fact, it is scary using it as a beginner because the more one use it as a shortcut to completing a task makes one relize how vulnerable one is to beoing replaced by the AI.
+I always priotize using it to think deeper instead of using it as a shortcut. it is more accomplishing and satisfying when you complete a task without the use of AI as a shortcut.
+Henceforth, i have resolved to make AI my assistants to help me think better rather than use it as a shortcut to completing tasks.
