@@ -1,4 +1,11 @@
-In as much as AI is tempting to be a first resource for beginners, I am always cautious of using it as i dont want to make myself over reliant on it to hinder my future growth.
-in fact, it is scary using it as a beginner because the more one use it as a shortcut to completing a task makes one relize how vulnerable one is to beoing replaced by the AI.
-I always priotize using it to think deeper instead of using it as a shortcut. it is more accomplishing and satisfying when you complete a task without the use of AI as a shortcut.
-Henceforth, i have resolved to make AI my assistants to help me think better rather than use it as a shortcut to completing tasks.
+    How have you used AI for coding so far?
+        Yes. Before now i use it to generate code for studying and simulating my project.
+
+    Do you usually try problems yourself first?
+        yes. i try writting codes myself then use AI to improve on the code and make it more solid and structured, and also for code optimization and sequence or flow control.
+
+    Can you explain code you've submitted without AI's help?
+        yes, any code i write, i amke sure i know exactly how each component of the code does. Each keyword used in the code, i try to understand them very well so as to use them appropriately in the code. so, i virtually understand every bit of my code and can explain it without the help of any one or AI.
+
+    What would happen if AI was unavailable during an exam or job test?
+        If in an exam or an interview and AI is not available, i will write my code normally and debug them to make them work as expected. because i use AI to optimize my code and make me think deeper, it will not be a big problem to me at all.
