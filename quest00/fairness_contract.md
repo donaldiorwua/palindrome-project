@@ -17,3 +17,6 @@ I know I'm using AI fairly when:
     I can explain my code without AI's help.
     I could solve a similar problem independently.
     I feel more confident in my own understanding.
+
+    Sign: Iorwua Terhile Donald
+    Date: February 11, 2026
