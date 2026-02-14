@@ -1,5 +1,6 @@
 def isPalindrome(s):
     return s == s[::-1] 
+    
     #this checks the string from the first index to the last and reverses the string when passed to see if it 
     # matches the original string even in reversed order
 
