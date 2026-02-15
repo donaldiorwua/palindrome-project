@@ -16,4 +16,4 @@ I learnt how to reverse a string to form a new string and at the same time, comp
 I now understand that, it is not just about reversing and comparing the string, a lot of other things are to be considered
 like the letter case of the string (either upper or lower), the punctuation if its a phrase, special characters and numbers.
 
-O yes, i can now write a function to reverse a string properly now!
+Yes, I can now write a function to reverse a string properly now!
