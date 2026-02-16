@@ -18,5 +18,4 @@
         Before now, i use AI as an answer generator but when i discovered the real power of AI, i stopped using it as ansewr generator rather, i use it for deepening my knowledge.
     
     Write a short paragraph describing where you are today and what type of learner you want to become.
-        I am doing my best to write codes and coplete my task without asking the AI to asnwer it for me.
-        I want to become a learner that will not rely on AI to complete my tasks. I will rather use it as a tool, than as a answer source.
+        I am doing my best to write codes and coplete my task without asking the AI to asnwer it for me. I want to become a learner that will not rely on AI to complete my tasks. I will rather use it as a tool, than as a answer source.
