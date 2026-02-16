@@ -1,5 +1,5 @@
     How have you used AI for coding so far?
-        Yes. Before now i use it to generate code for studying and simulating my project.
+        So far, I have used AI after arriving at my own solution of a problem to test the logic in the solution, find the loop holes and defficiences, why the it works and how to improve on it.
 
     Do you usually try problems yourself first?
         yes. i try writting codes myself then use AI to improve on the code and make it more solid and structured, and also for code optimization and sequence or flow control.
