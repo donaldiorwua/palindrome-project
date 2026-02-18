@@ -1,5 +1,5 @@
 ## Write pseudocode for a function that checks if a string is a palindrome.
-
+   Start
     - write a function name for the palindrome - isPalindrome
     - clean up the string by checking for spaces, punctuations, alphnumeric characters  
       and covert all character case to lower case.
@@ -7,7 +7,7 @@
       last index
     - comapre the reversed string with the original string to check if they match
     - Test the function with inputs
-    - End the program
+  End 
 
 
 ## Implement your solution in Python.
