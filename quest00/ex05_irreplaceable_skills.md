@@ -4,7 +4,7 @@ Rate yourself (1–5) in each skill and plan improvements:
 
 # Skill	                    Description	                                Rating	
 
-Problem Decomposition	    Breaking down problems logically	        3/	
+Problem Decomposition	    Breaking down problems logically	        3/5	
 Systems Thinking	        Understanding how components interact	    4/5	
 Critical Evaluation	        Knowing when code is wrong or inefficient	4/5	
 Debugging Mindset	        Investigating unexpected behavior	        4/5	
