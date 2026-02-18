@@ -1,20 +1,28 @@
-Write pseudocode for a function that checks if a string is a palindrome.
+## Write pseudocode for a function that checks if a string is a palindrome.
 
-    write a function name for the palindrome - isPalindrome
-    use string slicing to move through the string
-    reverse the string starting at the last index
-    comapre the reversed string with the original string
-    test the logic with an input
+    - write a function name for the palindrome - isPalindrome
+    - clean up the string by checking for spaces, punctuations, alphnumeric characters  
+      and covert all character case to lower case.
+    - use string slicing to move through the string, reverse the string starting at the   
+      last index
+    - comapre the reversed string with the original string to check if they match
+    - Test the function with inputs
+    - End the program
 
 
-Implement your solution in Python.
+## Implement your solution in Python.
 
 def isPalindrome(s):
-    return s == s[::-1] 
+# this defines the function to be used
+    checked = ''.join(c for c in s if c.isalnum()).lower()
+
+# This line ckeck and joins the chccaraters of the passed string if they are alpha-numeric characters and convert their case into lower case if in upper case
     
-    #this moves through the string from the first index to the last and reverses it
-    # the logic then compares the reversed with original string
-    # returns True if there is a match and False if there is no match
+    return checked == checked[::-1] 
+    
+# this moves through the string from the first index to the last and reverses it
+# the logic then compares the reversed with original string
+# returns True if there is a match and False if there is no match
 
 
 print (isPalindrome("racecar"))
@@ -22,49 +30,72 @@ print (isPalindrome("hello"))
 print (isPalindrome("A man a plan a canal Panama"))
 
 
-Use AI to learn
+
+## Use AI to learn
+
 Now that your function works, use AI to go deeper:
 
-    What's the time complexity?
+#    What's the time complexity?
 
-        s[::-1] creates a full reversed copy of the string
-        → O(n) time, O(n) extra space
+#       Time complexity
 
-        Comparing two strings of length n
-        → O(n) time (worst case)
+            Let n = length of the input string
 
-        Overall
+            Breakdown
 
-        Time complexity: O(n)
-        Space complexity: O(n) (because of the reversed copy)
+            isalnum() + join → O(n)
+            .lower() → O(n)
+            [::-1] (string reverse) → O(n)
+            Comparison → O(n)
 
+            ✅ Total time complexity
 
-    What edge cases might I miss?
-    -   Case sensitivity
-    -   Spaces and punctuation
-    -   Punctuation & symbols
+            O(n)
+
+        This is optimal — you cannot do better than linear time for palindrome checking.
+
+#       Space (memory) complexity
+
+            You create:
+
+            A new cleaned string (checked)
+            A reversed copy (checked[::-1])
+            ❗ Space complexity
+            O(n) extra space
+
+            This matters for very long strings.
+
+#   What edge cases might I miss?
+
+    -   Only non-alphanumeric characters (symbols) example (!!!)
+    -   Very large input (millions of chars)
     -   Unicode / accents (depends on expectations)
     -   Empty and single-character strings
 
 
-    Are there better approaches?"
-        Two pointers function 
+#    Are there better approaches?"
+
+#        Two pointers function 
         -   Less memory
         -   No reversed copy → O(1) extra space
 
+#       Regex-based approach (clean but slower)
+        - Very readable
+        - Regex adds overhead
+        - Still O(n), but slower in practice
 
-Reflection
 
-    What did you learn from solving it before asking AI?
+# Reflection
 
-        I learnt how to reverse a string to form a new string and at the same time, compare it with the original string.
+#    What did you learn from solving it before asking AI?
 
-    How is your understanding different now?
+        I learnt how to reverse a string to form a new string and at the same time, compare it with the original string. I learnt how to clean a string input i.e the character case of the string ( upper to lower), the punctuation if its a phrase, special characters and numbers.
 
-        I now understand that, it is not just about reversing and comparing the string, a lot of other things are to be considered
-        like the character case of the string (either upper or lower), the punctuation if its a phrase, special characters and numbers.
+#    How is your understanding different now?
+
+        I now understand that, it is not just about reversing and comparing the string, a lot of other things are to be considered. Like the worst input to expect example, an empty input, only special character input, unicode/accents.        
         Also, the time it takes to execute my code and the memory usage are all critical issues to be considered.
 
-    Could you now write similar functions (e.g., reverse a string) without help?
+#    Could you now write similar functions (e.g., reverse a string) without help?
 
         Yes, I can now write a function to reverse a string properly without help!
