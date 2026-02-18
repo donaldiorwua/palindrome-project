@@ -16,7 +16,7 @@ def isPalindrome(s):
 # this defines the function name
     checked = ''.join(c for c in s if c.isalnum()).lower()
 
-# This line ckeck and joins the chccaraters of the passed string if they are alpha-numeric characters and convert their case into lower case if in upper case
+# This line check and joins the characters of the passed string if they are alpha-numeric characters and convert their case into lower case if in upper case
     
     return checked == checked[::-1] 
     
