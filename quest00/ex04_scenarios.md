@@ -15,4 +15,4 @@
 
 # Reflection: Write one paragraph explaining how using AI fairly today prepares you for real-world challenges like these.
 
-        Fairly use of AI can not be over emphasized especially as a beginner. For me not to outsource my thinking, fairly using AI prepares one for real word challenges by ensuring I develop core problem solving skills, critical thingking and evaluation. Problems should be attempted first, then use AI to go deeper with your thinking rather than using it to output solutions and memorise them for presentation and probably interviews.
+        Fairly use of AI can not be over emphasized especially as a beginner. For me not to outsource my thinking, fairly using AI prepares me for real word challenges by ensuring I develop core problem solving skills, critical thingking and evaluation. Problems should be attempted first, then use AI to go deeper with your thinking rather than using it to output solutions and memorise them for presentation and probably interviews.
